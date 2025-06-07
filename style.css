@@ -1,0 +1,122 @@
+body {
+    font-family: sans-serif;
+
+}
+iframe{
+   display: flex;  
+   margin-left: 150px;
+}
+header {
+border: solid 5px royalblue;
+background-color: rgb(119, 155, 227);
+}
+header h1{
+    font-family:Impact, fantasy;
+}
+header img{
+width: 50px;
+position: relative;
+bottom:80px;
+display: flex;
+}
+h1{
+
+background-color: rgb(119, 155, 227);
+text-align: center;
+
+}
+.haider:hover{
+    transition:all 0.1s linear;
+    color:rgb(27, 43, 91);
+}
+html{
+    background-color: rgb(134, 160, 238);
+}
+body {
+     background-color: rgb(128, 153, 226);
+}
+main:hover{
+    margin:5px 2px 5px 2px;
+     transition:all 0.2s linear;
+     background-color: roy;
+     color:rgb(20, 30, 61);
+    border:solid 5px rgb(61, 88, 168);
+    border-radius:15px;
+       background-image: linear-gradient(rgb(141, 162, 214),rgb(119, 145, 223));
+}
+
+main{
+   background-image: linear-gradient(rgb(141, 162, 214),rgb(119, 145, 223));
+    border:solid 5px rgb(24, 45, 107);
+    margin:5px 2px 5px 2px;
+    border-radius:15px;
+   
+}
+footer{
+      background-image: linear-gradient(rgb(119, 145, 223),rgb(42, 66, 140)); 
+}
+footer img{
+    width: 200px;
+position: relative;
+bottom:0px;
+margin: 2px 30px 2px 30px;
+
+}
+.doyofart{
+border: solid 5px rgb(72, 114, 240);
+margin:2px 2px 2px 2px;
+border-radius:15px;
+}
+.heartburn{
+border: solid 5px rgb(72, 114, 240);
+margin:2px 2px 2px 2px;
+border-radius:15px;
+}
+footer img:hover{
+    width: 300px;
+position: relative;
+bottom:0px;
+margin: 2px 10px 2px 10px;
+border: solid 5px rgb(88, 127, 245);
+  transition:all 0.2s linear;
+}
+
+.heartburn:hover{
+    margin:5px 2px 5px 2px;
+     transition:all 0.2s linear;
+     background-color: roy;
+     color:rgb(20, 30, 61);
+    border:solid 5px rgb(61, 88, 168);
+    border-radius:15px;
+}
+.heartburn:hover{
+    margin:5px 2px 5px 2px;
+     transition:all 0.2s linear;
+     background-color: roy;
+     color:rgb(20, 30, 61);
+    border:solid 5px rgb(61, 88, 168);
+    border-radius:15px;
+}
+.tadzhik{
+   position: relative; 
+   
+   width:50px;
+   top:50px;
+}
+.tadzhik2{
+   position: relative; 
+   right:5px;
+ 
+   display: flex;
+}
+.tadzhik:hover{
+    transform:translateY(-20px);
+    transition: 0.5s ease-in;
+
+}
+.a{
+    margin-left:200px;
+}
+.a:hover{
+    margin-left:200px;
+}
